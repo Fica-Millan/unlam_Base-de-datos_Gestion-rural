@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Franco",
+    "apellido": "Petraroia",
+    "contacto_emerg": "1122334455",
+    "celular": "22415123456"
+  },
+  {
+    "nombre": "Florencia",
+    "apellido": "Miranda",
+    "contacto_emerg": "1122334466",
+    "celular": "22415678901"
+  },
+    {
+    "nombre": "Yesica",
+    "apellido": "Fica Millan",
+    "contacto_emerg": "1122334477",
+    "celular": "22415674521"
+  }
+]
