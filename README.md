@@ -15,7 +15,6 @@
 
 ## 📚 Índice
 - [Proyecto de Base de Datos - **Gestión Rural**](#proyecto-de-base-de-datos---gestión-rural)
-  - [📚 Índice](#-índice)
   - [Descripción General](#descripción-general)
   - [Estructura del Proyecto](#estructura-del-proyecto)
   - [TP1: Modelado Conceptual y Relacional](#tp1-modelado-conceptual-y-relacional)
