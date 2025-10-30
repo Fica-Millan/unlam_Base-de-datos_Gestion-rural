@@ -76,6 +76,7 @@ A lo largo de cuatro trabajos prácticos se desarrolló el ciclo completo de vid
 
 
 📷 Imágenes:
+
 <img src="assets/DER.png" width="600">
 <img src="assets/MER.png" width="600">
 
